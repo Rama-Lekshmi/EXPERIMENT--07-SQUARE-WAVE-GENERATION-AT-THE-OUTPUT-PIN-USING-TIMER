@@ -99,8 +99,6 @@ Step14. click on debug and simulate using simulation as shown below
 ```
 Developed by: Rama E.K. Lekshmi
 Register Number : 212222240082
-```
-```
 #include "main.h"
 
 int main(void)
